@@ -51,27 +51,27 @@
 <div class="tech-stack">
     <a style="margin-right: 10px; text-decoration: none;"
         href="https://www.credly.com/badges/cd3e7d4c-281c-4920-95de-cb84ed983848" target="_blank" rel="noreferrer">
-        <img width="40" height="40"
+        <img width="80" height="80"
             src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
             alt="AWS Certified Solutions Architect – Professional" /> </a>
     <a style="margin-right: 10px; text-decoration: none;"
         href="https://www.credly.com/badges/22a0978d-0849-4047-a7ca-fa2fc0df99c0" target="_blank" rel="noreferrer">
-        <img width="40" height="40"
+        <img width="80" height="80"
             src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
             alt="AWS Certified Solutions Architect – Associate" /> </a>
     <a style="margin-right: 10px; text-decoration: none;"
         href="https://www.credly.com/badges/64366b6e-cefa-4042-8b9e-f3ba85cf40f6" target="_blank" rel="noreferrer">
-        <img width="40" height="40"
+        <img width="80" height="80"
             src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
             alt="AWS Certified Developer – Associate" /> </a>
     <a style="margin-right: 10px; text-decoration: none;"
         href="https://www.credly.com/badges/abfec068-b3f5-4b45-80c8-0e165b42e1b2" target="_blank" rel="noreferrer">
-        <img width="40" height="40"
+        <img width="80" height="80"
             src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
             alt="Microsoft Certified: Azure Fundamentals" /> </a>
     <a style="margin-right: 10px; text-decoration: none;"
         href="https://www.credly.com/badges/a5b8b995-40d9-4ee8-aa23-e83a32a37e52" target="_blank" rel="noreferrer">
-        <img width="40" height="40"
+        <img width="80" height="80"
             src="https://images.credly.com/size/110x110/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png"
             alt=".NET Workloads on AWS Lambda" /> </a>
 </div>
