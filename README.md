@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankushjain358](https://github.com/ankushjain358)
 
-- 📝 I regularly write articles on [https://coderjony.com](https://coderjony.com)
+- 📝 I often write articles on [https://coderjony.com](https://coderjony.com)
 
 - 💬 Ask me about **.NET on AWS**
 
