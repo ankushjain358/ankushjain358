@@ -63,7 +63,7 @@ A passionate full-stack developer from India
 
 ## Frontend & Mobile
 [![](https://cdn.coderjony.com/icons/javascript_48x48.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://cdn.coderjony.com/icons/amplify_48x48.png)](https://aws.amazon.com/amplify/)
+[![](https://cdn.coderjony.com/icons/aws-amplify_48x48.png)](https://aws.amazon.com/amplify/)
 [![](https://cdn.coderjony.com/icons/angular_48x48.png)](https://angular.io)
 [![](https://cdn.coderjony.com/icons/flutter_48x48.png)](https://flutter.dev)
 [![](https://cdn.coderjony.com/icons/ionic_48x48.png)](https://ionicframework.com)
