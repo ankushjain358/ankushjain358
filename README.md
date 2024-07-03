@@ -3,7 +3,7 @@ A passionate full-stack developer from India
 
 - 🔭 I’m currently working at **Amazon Web Services (AWS)**
 
-- 🌱 I’m currently learning **AWS AppSync, Flutter**
+- 🌱 I’m currently learning **Next.JS, Observability, AWS AppSync, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankushjain358](https://github.com/ankushjain358)
 
