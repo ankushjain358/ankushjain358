@@ -77,6 +77,8 @@ Published following patterns, blogs, code-samples, videos and other artifacts in
 
 ### AWS Blogs
 - [Create a CI/CD pipeline for .NET Lambda functions with AWS CDK Pipelines](https://aws.amazon.com/blogs/devops/create-a-ci-cd-pipeline-for-net-lambda-functions-with-aws-cdk-pipelines/)
+- [Implement fine-grained authorization in your .NET API using Amazon Cognito Custom Scopes](https://aws.amazon.com/blogs/dotnet/implement-fine-grained-authorization-in-your-net-api-using-amazon-cognito-custom-scopes/)
+- [Modernizing a WCF service to CoreWCF: Lessons learned](https://aws.amazon.com/blogs/modernizing-with-aws/wcf-service-to-corewcf/)
 
 ### Serverless Patterns
 - [Create an Amazon API Gateway REST API to AWS Lambda](https://serverlessland.com/patterns/apigw-lambda-cdk-dotnet)
@@ -87,6 +89,7 @@ Published following patterns, blogs, code-samples, videos and other artifacts in
 ### GitHub Code Samples
 - [aws-samples/authentication-flow-examples-with-dotnet-for-amazon-cognito](https://github.com/aws-samples/authentication-flow-examples-with-dotnet-for-amazon-cognito/)
 - [aws-samples/aws-services-netcore-wrappers](https://github.com/aws-samples/aws-services-netcore-wrappers) - Contributor
+- [aws-samples/sample-appsync-dotnet-lambda-resolvers](https://github.com/aws-samples/sample-appsync-dotnet-lambda-resolvers/)
 - [ankushjain358/serverless-dotnet-apis-with-amazon-cognito](https://github.com/ankushjain358/serverless-dotnet-apis-with-amazon-cognito)
 - [ankushjain358/OAuth2.ClientCredentials](https://github.com/ankushjain358/OAuth2.ClientCredentials)
 
