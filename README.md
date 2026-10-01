@@ -1,13 +1,13 @@
 # Hi 👋, I'm Ankush Jain
 A passionate full-stack developer from India
 
-- 🔭 I’m currently working at **Amazon Web Services (AWS)**
+- 🔭 I’m currently working at **JPMorganChase**
 
-- 🌱 I’m currently learning **Next.JS, Observability, AWS AppSync, Amplify**
+- 🌱 Interested in **Backend engineering, Observability and Distributed Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankushjain358](https://github.com/ankushjain358)
 
-- 📝 I often write articles at [https://coderjony.com](https://coderjony.com)
+- 📝 I often write articles at [https://coderjony.com](https://coderjony.com) and [https://blog.coderjony.com](https://blog.coderjony.com)
 
 - 💬 Ask me about **.NET on AWS**
 
